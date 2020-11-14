@@ -4,6 +4,8 @@ CurrentModule = PowerMarketAdeq
 
 # PowerMarketAdeq
 
+## This is not maintained
+
 ```@index
 ```
 
