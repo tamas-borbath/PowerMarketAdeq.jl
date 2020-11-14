@@ -1,5 +1,5 @@
 module PowerMarketAdeq
 
-# Write your package code here.
+include("dummy.jl")
 
 end
